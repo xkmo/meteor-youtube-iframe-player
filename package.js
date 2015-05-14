@@ -1,7 +1,7 @@
 Package.describe({
   name: 'xkmo:youtube-iframe-player',
   summary: 'Control YouTube\'s embedded player using Meteor',
-  version: '0.4.16',
+  version: '0.4.17',
   git: 'https://github.com/xkmo/meteor-youtube-iframe-player.git'
 });
 
