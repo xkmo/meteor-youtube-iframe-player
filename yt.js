@@ -18,7 +18,7 @@ window.onYouTubeIframeAPIReady = function () {
 };
 
 Meteor.startup(function () {
-  $.getScript('//www.youtube.com/iframe_api');
+  $.getScript('https//www.youtube.com/iframe_api');
 });
 
 YTPlayer = function (name, playerVars) {
